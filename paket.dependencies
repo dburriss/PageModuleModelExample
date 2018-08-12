@@ -1,0 +1,7 @@
+source https://api.nuget.org/v3/index.json
+
+nuget FSharp.Core
+nuget canopy
+nuget Selenium.WebDriver.ChromeDriver
+nuget System.ValueTuple
+nuget Unquote
